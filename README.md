@@ -1,7 +1,7 @@
 # MonitoriaResidencia
 Monitoria para Residência de Software. Material disponibilizado.
 
-<p align='center'><img src="image/calendario.png" height="400" alt="calendar"></p>
+<p align='center'><img src="image/calendario.png" height="200" alt="calendar"></p>
 
 ## Nivelamento
 * Algoritmo (Portugol)
