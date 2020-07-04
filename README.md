@@ -1,7 +1,7 @@
 # MonitoriaResidencia
 Monitoria para Residência de Software. Material disponibilizado.
 
-<p align='center'><img src="image/calendario.png" height="300" alt="calendar"></p>
+<p align='center'><img src="image/calendario.png" height="280" alt="calendar"></p>
 
 ## Nivelamento
 * Algoritmo (Portugol)
@@ -27,32 +27,37 @@ Monitoria para Residência de Software. Material disponibilizado.
   * Introdução ao Github (Criar contas)
   * Instalação e Configuração do git
   * Comandos terminal
+    `cd`
+    `ls`
+    `mkdir`
+    `dir`
+    `touch`
   * Ciclo de vida untracked unmodified modified staged
   * Principais comandos do git:
-    > git clone
-    > git status
-    > git add
-    > git commit -m
-    > git push
-    > git pull
-    > git branch (nome nova branch)
-    > git checkout (branch)
-    > git merge (nome da branch que você quer ajustar)
+    `git clone`
+    `git status`
+    `git add`
+    `git commit -m`
+    `git push`
+    `git pull`
+    `git branch (nome nova branch)`
+    `git checkout (branch)`
+    `git merge (nome da branch que você quer ajustar)`
   * .gitignore
   * Exemplos:
     Pega a master mais recente:
-    > git checkout master
-    > git pull
+    `git checkout master`
+    `git pull`
 
     Cria a branch localmente e remotamente:
-    > git checkout -b nome branch
-    > git push -u origin nome branch
+    `git checkout -b nome branch`
+    `git push -u origin nome branch`
 
     ..faz a tarefa, faz commit e push..
 
     Quando terminar, vai para a master e faz merge:
-    > git checkout master
-    > git merge nome branch
+    `git checkout master`
+    `git merge nome branch`
 
 ## Front-end Essencial
 * HTML5
