@@ -32,6 +32,16 @@ https://goo.gl/OSdCBS
 
 # Excel
 
+## Hastag Treinamentos Semana do Excel 06/07
+
+### Inscrição
+
+https://excelparaestagio.klickpages.com.br/inscricoes-mes2-orgsemanaexcel?origemurl=hashtag_yt_org_semanaexcel_qzdCWJy6efs
+
+### Site
+
+https://www.hashtagtreinamentos.com/?gclid=EAIaIQobChMI-cu61P6z6gIVhxGRCh3muAz-EAAYASAAEgLRAfD_BwE
+
 ## Curso Macros e VBA Excel
 
 https://www.udemy.com/course/vbaexcel/

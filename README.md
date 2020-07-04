@@ -1,7 +1,7 @@
 # MonitoriaResidencia
 Monitoria para Residência de Software. Material disponibilizado.
 
-<p align='center'><img src="image/calendario.png" height="200" alt="calendar"></p>
+<p align='center'><img src="image/calendario.png" height="300" alt="calendar"></p>
 
 ## Nivelamento
 * Algoritmo (Portugol)
@@ -15,15 +15,45 @@ Monitoria para Residência de Software. Material disponibilizado.
   * Operadores lógicos (E, OU, NOT)
   * Estrutura de laços (enquanto / para) //while for
   * Incremento e decremento
-  * Estrutura de dados
+  * Estrutura de dados Vetores []{} Matrizes (vetores de vetores/bidimensional) Pilha e Fila
 * Conceito de Recursividade
 * Matemática
   * Estátistica básica
   * Regra de três
   * Excel
 * Introdução a armazenamento de dados
-* Git
-  
+* Git Básico dia-a-dia
+  * Introdução o que é um controle de versão
+  * Introdução ao Github (Criar contas)
+  * Instalação e Configuração do git
+  * Comandos terminal
+  * Ciclo de vida untracked unmodified modified staged
+  * Principais comandos do git:
+    > git clone
+    > git status
+    > git add
+    > git commit -m
+    > git push
+    > git pull
+    > git branch (nome nova branch)
+    > git checkout (branch)
+    > git merge (nome da branch que você quer ajustar)
+  * .gitignore
+  * Exemplos:
+    Pega a master mais recente:
+    > git checkout master
+    > git pull
+
+    Cria a branch localmente e remotamente:
+    > git checkout -b nome branch
+    > git push -u origin nome branch
+
+    ..faz a tarefa, faz commit e push..
+
+    Quando terminar, vai para a master e faz merge:
+    > git checkout master
+    > git merge nome branch
+
 ## Front-end Essencial
 * HTML5
 * CSS3
