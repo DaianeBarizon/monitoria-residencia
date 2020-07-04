@@ -33,31 +33,47 @@ Monitoria para Residência de Software. Material disponibilizado.
     `dir`
     `touch`
   * Ciclo de vida untracked unmodified modified staged
-  * Principais comandos do git:
-    `git clone`
-    `git status`
-    `git add`
-    `git commit -m`
-    `git push`
-    `git pull`
-    `git branch (nome nova branch)`
-    `git checkout (branch)`
-    `git merge (nome da branch que você quer ajustar)`
+  * Principais comandos do git:</br>
+  
+    `git clone`</br>
+
+    `git status`</br>
+
+    `git add`</br>
+
+    `git commit -m`</br>
+
+    `git push`</br>
+
+    `git pull`</br>
+
+    `git branch (nome nova branch)`</br>
+
+    `git checkout (branch)`</br>
+
+    `git merge (nome da branch que você quer ajustar)`</br>
+
   * .gitignore
   * Exemplos:
-    Pega a master mais recente:
-    `git checkout master`
-    `git pull`
+    Pega a master mais recente:</br>
 
-    Cria a branch localmente e remotamente:
-    `git checkout -b nome branch`
-    `git push -u origin nome branch`
+    `git checkout master`</br>
 
-    ..faz a tarefa, faz commit e push..
+    `git pull`</br>
 
-    Quando terminar, vai para a master e faz merge:
-    `git checkout master`
-    `git merge nome branch`
+    Cria a branch localmente e remotamente:</br>
+
+    `git checkout -b nome branch`</br>
+
+    `git push -u origin nome branch`</br>
+
+    ..faz a tarefa, faz commit e push..</br>
+
+    Quando terminar, vai para a master e faz merge:</br>
+
+    `git checkout master`</br>
+
+    `git merge nome branch`</br>
 
 ## Front-end Essencial
 * HTML5
