@@ -1,11 +1,4 @@
-
-
-
-
-
-
-
-# Splas Screen 
+# Para conhecimento: Splash Screen 
 
 ## Curso de Adobe Premiere Pro CC (34 aulas)
 https://goo.gl/7nPNJh
