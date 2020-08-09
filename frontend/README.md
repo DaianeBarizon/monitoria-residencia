@@ -61,7 +61,7 @@
 // Auxilia no menu do site
 ?
 ```
-<p align='center'><img src="../image/menu.JPG" height="280" alt="menu"></p>
+<p align='center'><img src="../image/menu.JPG" height="180" alt="menu"></p>
 
 #### Desafio de Bootstrap #3
 
