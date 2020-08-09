@@ -33,7 +33,6 @@
 ?
 
 ```
-
 <p align='center'><img src="../image/html5.png" height="280" alt="estrutura html"></p>
 
 ```js
@@ -68,7 +67,7 @@
 // Auxilia no estudo de Flexbox
 ```
 Clique aqui
-[Flexbox Froggy]https://flexboxfroggy.com/
+[Flexbox Froggy](https://flexboxfroggy.com/)
 
 
 #### Desafio de Bootstrap #3
