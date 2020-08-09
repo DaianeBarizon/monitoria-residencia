@@ -63,6 +63,14 @@
 ```
 <p align='center'><img src="../image/menu.JPG" height="180" alt="menu"></p>
 
+```js
+// (3) Entre no site do Flexbox Froggy e ajude o Froggy escrevendo código CSS. 
+// Auxilia no estudo de Flexbox
+```
+Clique aqui
+[Flexbox Froggy]https://flexboxfroggy.com/
+
+
 #### Desafio de Bootstrap #3
 
 ```js
