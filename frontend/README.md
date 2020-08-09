@@ -55,12 +55,13 @@
 
 ```js
 // (2) Desenvolva o menu abaixo com uma imagem na lateral e o bloco de texto na cor
-cinza. Quando o mouse estiver sobre o item do menu, todo o bloco do item do menu deverá ficar
-na cor rosa.
+// cinza. Quando o mouse estiver sobre o item do menu, todo o bloco do item do menu deverá ficar
+// na cor rosa.
+// (utilize Rosa: rgb(224,27,106) Cinza: rgb(204,204,204))
 // Auxilia no menu do site
 ?
 ```
-<p align='center'><img src="../image/menu.jpg" height="280" alt="gochef"></p>
+<p align='center'><img src="../image/menu.jpeg" height="280" alt="menu"></p>
 
 #### Desafio de Bootstrap #3
 
