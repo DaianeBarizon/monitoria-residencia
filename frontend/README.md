@@ -148,7 +148,7 @@
 // (2) Retorne a soma da idade dos gatos. (utilize reduce para percorrer o array)
 ?
 
-Auxiliam na básica javaScript e na explicação de alguns métodos auxiliares para array
+// Auxiliam na básica javaScript e na explicação de alguns métodos auxiliares para array
 ```
 #### Desafio Extra #5
 
