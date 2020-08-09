@@ -64,6 +64,7 @@ https://goo.gl/bAO0hE
 // (1).Implemente o layout abaixo usando bootstrap e css.
 // (utilize o css do próprio bootstrap)
 // (utilize a fonte https://fonts.google.com/specimen/Montserrat
+// (utilize o hexadecimal #b80000 (vermelho) #efeff1 (cinza do card) #48ee34 (verde) #625c68 (cinza escuro)
 // Auxilia na página 'o que fazemos'
 ?
 ```
