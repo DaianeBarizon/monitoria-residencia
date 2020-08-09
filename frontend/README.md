@@ -38,21 +38,32 @@ https://goo.gl/bAO0hE
 #### Desafio de HTML #1
 
 ```js
-// (1)Implemente uma ca.
+// (1)Implemente uma estrutura básica de um site usando HTML 5.
+// (utitlize tags <header> <nav> <section> <article> <sidebar> <footer>)
+// (construa a nav utilizando as <li> Home, Quem somos, O que fazemos e Contato
+// Axilia na estrutura
 ?
+
+// (2)Implemente um formulário de contato em HTML 5. 
+// (utilize os campos: nome, emal e assunto)
+// Axilia na página de 'contato'
 ```
 
 #### Desafio de CSS #2
 
 ```js
-// (1)Implemente uma ca.
+// (1)Desenvolva o css da página sem mexer na estrutura HTML.
+// (utilize as propriedades vista durante a monitoria)
+// Auxilia no estilo do site
 ?
 ```
 
 #### Desafio de Bootstrap #3
 
 ```js
-// (1).
+// (1).Implemente o layout abaixo usando bootstrap e css.
+// (utilize o css do próprio bootstrap)
+// Auxilia na página 'o que fazemos'
 ?
 ```
 
@@ -70,7 +81,7 @@ https://goo.gl/bAO0hE
 ?
 
 // (3)Faça um programa para calcular a média de 5 alunos e retornar os alunos aprovados em ordem crescente por nota.
-// (Utilize forEach para percorrer o array)
+// (utilize forEach para percorrer o array)
 ?
 
 // (4)Faça um programa que entre com cinco números e imprima o quadrado de cada número sem modificar o array inicial.
@@ -81,8 +92,8 @@ https://goo.gl/bAO0hE
 ?
 
 // (6)Dado o array animais.
-// (1)Retorne apenas os nomes dos cachorros. (Utilize filter para percorrer o array)
-// (2)Retorne a soma da idade dos gatos. (Utilize reduce para percorrer o array)
+// (1)Retorne apenas os nomes dos cachorros. (utilize filter para percorrer o array)
+// (2)Retorne a soma da idade dos gatos. (utilize reduce para percorrer o array)
 animals = [
   {
     name: 'Butters',
@@ -110,5 +121,8 @@ animals = [
 #### Desafio Extra #5
 
 ```js
-// (1)Implemente uma calculadora utilizando bootstrap, css e javascript para sua funcionalidade. (Faça somente as 4 operações básicas)
+// (1)Implemente uma calculadora utilizando bootstrap, css e javaScript para sua funcionalidade. (somente as 4 operações básicas)
 ?
+
+
+
