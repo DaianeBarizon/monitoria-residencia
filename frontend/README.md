@@ -93,7 +93,7 @@
 
 // (6) Dado o array animais.
 ```
-`animals = [</br>
+`animals = [<br>
   {</br>
     name: 'Butters',</br>
     age: 3,</br>
