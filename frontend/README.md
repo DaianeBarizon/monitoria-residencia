@@ -56,7 +56,8 @@
 ```
 [Estrutura HTML](https://github.com/DaianeBarizon/ProffysDiscovery) :rocket:
 
-<p align='center'><img src="../image/proffy.jpg" height="480" alt="Proffy"></p>
+<p align='center'><img src="../image/ProffySemEstilo.JPG" height="480" alt="Proffy"></p>
+<p align='center'><img src="../image/Proffy.JPG" height="480" alt="Proffy"></p>
 
 
 ```js
