@@ -70,6 +70,7 @@ https://goo.gl/bAO0hE
 ```
 
 <p align='center'><img src="../image/gochef.png" height="480" alt="gochef"></p>
+<p align='center'><img src="../image/gochef-grid.png" height="480" alt="gochef"></p>
 
 #### Desafio de JavaScript #4
 
