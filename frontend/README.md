@@ -44,6 +44,8 @@ https://goo.gl/bAO0hE
 // Axilia na estrutura
 ?
 
+<p align='center'><img src="../image/html5.png" height="280" alt="gochef"></p>
+
 // (2)Implemente um formulário de contato em HTML 5. 
 // (utilize os campos: nome, emal e assunto)
 // Axilia na página de 'contato'
