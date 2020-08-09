@@ -51,8 +51,13 @@
 // (utilize as propriedades vista durante a monitoria)
 // Quero apenas a estrutura, não precisa de css
 // Auxilia no estilo do site
+// Inspirado no curso da Rocketseat
 ?
 ```
+[Estrutura HTML](https://github.com/DaianeBarizon/ProffysDiscovery) :rocket:
+
+<p align='center'><img src="../image/proffy.jpg" height="480" alt="Proffy"></p>
+
 
 ```js
 // (2) Desenvolva o menu abaixo com uma imagem na lateral e o bloco de texto na cor
