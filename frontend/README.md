@@ -49,6 +49,7 @@
 ```js
 // (1) Desenvolva o css da página sem mexer na estrutura HTML.
 // Auxilia no estilo do site
+// Para desenvolver: Acesse o link Estrutura HTML fork o repositório, clone o projeto e implemente a landing page.
 // Inspirado no curso da Rocketseat
 ?
 ```
