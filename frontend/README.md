@@ -92,31 +92,31 @@
 ?
 
 // (6) Dado o array animais.
-```
-`animals = [<br>
-  {</br>
-    name: 'Butters',</br>
-    age: 3,</br>
-    type: 'cat'</br>
-  },</br>
-  {</br>
-    name: 'Lizzy',</br>
-    age: 6,</br>
-    type: 'dog'</br>
-  },</br>
-  {</br>
-    name: 'Red',</br>
-    age: 1,</br>
-    type: 'cat'</br>
-  },</br>
-  {</br>
-    name: 'Joey',</br>
-    age: 3,</br>
-    type: 'dog'</br>
-  },</br>
-];`</br>
 
-```js
+`animals = [
+  {
+    name: 'Butters',
+    age: 3,
+    type: 'cat'
+  },
+  {
+    name: 'Lizzy',
+    age: 6,
+    type: 'dog'
+  },
+  {
+    name: 'Red',
+    age: 1,
+    type: 'cat'
+  },
+  {
+    name: 'Joey',
+    age: 3,
+    type: 'dog'
+  },
+];`
+
+
 // (1) Retorne apenas os nomes dos cachorros. (utilize filter para percorrer o array)
 ?
 
