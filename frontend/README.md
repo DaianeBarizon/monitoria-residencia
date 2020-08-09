@@ -154,7 +154,7 @@
 
 ```js
 // (1) Implemente uma calculadora utilizando bootstrap, css e javaScript para sua funcionalidade.
-(somente as 4 operações básicas)
+// (somente as 4 operações básicas)
 ?
 
 ```
