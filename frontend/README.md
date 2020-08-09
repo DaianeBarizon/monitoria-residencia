@@ -36,8 +36,25 @@ https://goo.gl/bAO0hE
 
 
 #### Desafio de HTML #1
+
+```js
+// (1)Implemente uma ca.
+?
+```
+
 #### Desafio de CSS #2
+
+```js
+// (1)Implemente uma ca.
+?
+```
+
 #### Desafio de Bootstrap #3
+
+```js
+// (1).
+?
+```
 
 #### Desafio de JavaScript #4
 
@@ -53,7 +70,7 @@ https://goo.gl/bAO0hE
 ?
 
 // (3)Faça um programa para calcular a média de 5 alunos e retornar os alunos aprovados em ordem crescente por nota.
-// (Utilize ForEach para percorrer o array)
+// (Utilize forEach para percorrer o array)
 ?
 
 // (4)Faça um programa que entre com cinco números e imprima o quadrado de cada número sem modificar o array inicial.
@@ -63,7 +80,9 @@ https://goo.gl/bAO0hE
 // porém de maneira invertida (do último para o primeiro).
 ?
 
-// (6)Dado o array animais. Retorne apenas os nomes dos cachorros. (Utilize Filter)
+// (6)Dado o array animais.
+// (1)Retorne apenas os nomes dos cachorros. (Utilize filter para percorrer o array)
+// (2)Retorne a soma da idade dos gatos. (Utilize reduce para percorrer o array)
 animals = [
   {
     name: 'Butters',
@@ -87,18 +106,9 @@ animals = [
   },
 ];
 ?
+```
+#### Desafio Extra #5
 
-// (7)Dado o array de números. Retorne a soma do array. (Utilize Reduce). var numeros = [1,2,3,4,8]
-?
-
-// 
-?
-
-// 
-?
-
-// 
-?
-
-// 
+```js
+// (1)Implemente uma calculadora utilizando bootstrap, css e javascript para sua funcionalidade. (Faça somente as 4 operações básicas)
 ?
