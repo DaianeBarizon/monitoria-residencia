@@ -64,9 +64,10 @@ https://goo.gl/bAO0hE
 // (1).Implemente o layout abaixo usando bootstrap e css.
 // (utilize o css do próprio bootstrap)
 // Auxilia na página 'o que fazemos'
-<p align='center'><img src="image/calendario.png" height="280" alt="calendar"></p>
 ?
 ```
+
+<p align='center'><img src="../image/gochef.png" height="280" alt="gochef"></p>
 
 #### Desafio de JavaScript #4
 
