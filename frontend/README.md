@@ -52,7 +52,8 @@ https://goo.gl/bAO0hE
 // as quantidades de pães e de broas, e depois calcular os dados solicitados.
 ?
 
-// (3)Faça um programa para calcular a média de 5 alunos e retornar os alunos aprovados em ordem crescente por nota. (Utilize ForEach)
+// (3)Faça um programa para calcular a média de 5 alunos e retornar os alunos aprovados em ordem crescente por nota.
+// (Utilize ForEach para percorrer o array)
 ?
 
 // (4)Faça um programa que entre com cinco números e imprima o quadrado de cada número sem modificar o array inicial.
@@ -62,7 +63,7 @@ https://goo.gl/bAO0hE
 // porém de maneira invertida (do último para o primeiro).
 ?
 
-// (6)Dado o array animais. Retorne apenas os cachorros. (Utilize Filter)
+// (6)Dado o array animais. Retorne apenas os nomes dos cachorros. (Utilize Filter)
 animals = [
   {
     name: 'Butters',
