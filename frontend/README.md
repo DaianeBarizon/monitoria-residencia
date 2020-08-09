@@ -77,7 +77,7 @@
 [Clique Flexbox Froggy](https://flexboxfroggy.com/)
 
 ```js
-// (4) Pegue o primeiro exercício da estrutura HTML5 e estilize a página deixando responsivo.
+// (4) Pegue o primeiro exercício (Proffy) e deixe o layout responsivo.
 // (utilize media queries para fazer a responsividade)
 // Auxilia em layout responsivo
 ```
