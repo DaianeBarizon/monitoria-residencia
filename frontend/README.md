@@ -30,7 +30,7 @@
 // (utitlize tags <header> <nav> <section> <article> <sidebar> <footer>)
 // (construa a nav utilizando as <li> Home, Quem somos, O que fazemos e Contato
 // Apenas a estrutura, não precisa de css
-// Axilia na estrutura
+// Axilia na estrutura do site
 ?
 
 ```
@@ -38,7 +38,7 @@
 
 ```js
 // (2) Implemente um formulário de contato em HTML 5. 
-// (utilize os campos: nome, emal, assunto e mensagem)
+// (utilize os campos: nome, email, assunto e mensagem)
 // Axilia na página de 'contato'
 ?
 
