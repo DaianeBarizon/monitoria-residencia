@@ -63,6 +63,7 @@ https://goo.gl/bAO0hE
 ```js
 // (1).Implemente o layout abaixo usando bootstrap e css.
 // (utilize o css do próprio bootstrap)
+// (utilize a fonte https://fonts.google.com/specimen/Montserrat
 // Auxilia na página 'o que fazemos'
 ?
 ```
