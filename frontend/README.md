@@ -34,7 +34,7 @@
 
 ```
 
-<p align='center'><img src="../image/html5.png" height="280" alt="gochef"></p>
+<p align='center'><img src="../image/html5.png" height="280" alt="estrutura html"></p>
 
 ```js
 // (2) Implemente um formulário de contato em HTML 5. 
@@ -61,7 +61,7 @@
 // Auxilia no menu do site
 ?
 ```
-<p align='center'><img src="../image/menu.jpeg" height="280" alt="menu"></p>
+<p align='center'><img src="../image/menu.JPG" height="280" alt="menu"></p>
 
 #### Desafio de Bootstrap #3
 
