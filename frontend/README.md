@@ -48,8 +48,6 @@
 
 ```js
 // (1) Desenvolva o css da página sem mexer na estrutura HTML.
-// (utilize as propriedades vista durante a monitoria)
-// Quero apenas a estrutura, não precisa de css
 // Auxilia no estilo do site
 // Inspirado no curso da Rocketseat
 ?
