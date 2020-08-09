@@ -29,6 +29,7 @@
 // (1) Implemente uma estrutura básica de um site usando HTML 5.
 // (utitlize tags <header> <nav> <section> <article> <sidebar> <footer>)
 // (construa a nav utilizando as <li> Home, Quem somos, O que fazemos e Contato
+// Apenas a estrutura, não precisa de css
 // Axilia na estrutura
 ?
 
@@ -67,9 +68,15 @@
 // (3) Entre no site do Flexbox Froggy e ajude o Froggy escrevendo código CSS. 
 // Auxilia no estudo de Flexbox
 ```
-Clique aqui
-[Flexbox Froggy](https://flexboxfroggy.com/)
 
+[Clique Flexbox Froggy](https://flexboxfroggy.com/)
+
+```js
+// (4) Pegue o primeiro exercício da estrutura HTML5 e estilize a página deixando responsivo.
+// (utilize media queries para fazer a responsividade)
+// Auxilia em layout responsivo
+```
+<p align='center'><img src="../image/media.jpg" height="280" alt="media queries"></p>
 
 #### Desafio de Bootstrap #3
 
