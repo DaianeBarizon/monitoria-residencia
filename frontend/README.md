@@ -26,6 +26,7 @@
 // https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 // https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/
 // https://blog.caelum.com.br/as-multiplas-personalidades-do-this-em-javascript/
+// https://rocketseat.com.br/
 ```
 
 #### Desafio de HTML #1
