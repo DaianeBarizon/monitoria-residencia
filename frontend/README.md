@@ -60,16 +60,6 @@
 
 
 ```js
-// (2) Desenvolva o menu abaixo com uma imagem na lateral e o bloco de texto na cor
-// cinza. Quando o mouse estiver sobre o item do menu, todo o bloco do item do menu deverá ficar
-// na cor rosa.
-// (utilize Rosa: rgb(224,27,106) Cinza: rgb(204,204,204))
-// Auxilia no menu do site
-?
-```
-<p align='center'><img src="../image/menu.JPG" height="180" alt="menu"></p>
-
-```js
 // (3) Entre no site do Flexbox Froggy e ajude o Froggy escrevendo código CSS. 
 // Auxilia no estudo de Flexbox
 ```
